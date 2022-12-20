@@ -1,0 +1,13 @@
+# Blender 3.3.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Abstract_02_-_Grey_Green
+Ns 319.999939
+Ka 0.290000 0.290000 0.290000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0 -1 0 revolution:cal45_color
+map_Ks -o 0 -1 0 revolution:cal45_roughness
+

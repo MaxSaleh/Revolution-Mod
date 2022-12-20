@@ -1,0 +1,16 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:obj",
+  "model": "revolution:models/item/gun_models/cal_45.obj",
+
+  "flip_v": true,
+
+  "visibility": {
+    "base": false,
+    "slide": false,
+    "hammer": true,
+    "trigger": false,
+    "bullet": false,
+    "mag": false
+  }
+}

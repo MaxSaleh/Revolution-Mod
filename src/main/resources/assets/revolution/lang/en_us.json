@@ -1,0 +1,11 @@
+{
+  "_comment": "<----> Mod Creative Tabs <---->",
+  "itemGroup.revolution.guns": "Revolution Weapons",
+  "itemGroup.revolution.ammo": "Revolution Ammo",
+
+  "__comment": "<----> Mods Weapons <---->",
+  "item.revolution.cal_45": "Cal.45",
+
+  "___comment": "<----> Mods Ammunition <---->",
+  "item.revolution.cal_45_ammo": "Cal.45 Ammunition"
+}
